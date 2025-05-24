@@ -105,3 +105,19 @@ body{
     margin-top: 10px;
     display: none;
 }
+
+.footer-link {
+      position: absolute;
+      top: 10px;
+      right: 20px;
+      font-size: 14px;
+    }
+
+    .footer-link a {
+      text-decoration: none;
+      color: #007bff;
+    }
+
+    .footer-link a:hover {
+      text-decoration: underline;
+    }
